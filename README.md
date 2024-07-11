@@ -10,7 +10,7 @@
 
 <p style="font-size:20px"> Main page </p>
 
-![preview](./src/readme/ux.png)
+![preview](./src/readme/ux.png){width=50%}
 
 <br>
 
