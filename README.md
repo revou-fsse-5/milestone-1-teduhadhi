@@ -6,9 +6,10 @@
 
 ## Web Preview
 
-![preview](src/readme/preview.png)
+![preview](./src/readme/ux.png)
 
-**`<footer>`**: Footer containing copyright information.
+![user-data](./src/readme/ux-2.png)
+
 
 ## Documentation
 
@@ -16,18 +17,43 @@
 
 1. Make the concepts of what the layout is going to be.
 
-![layout](src/readme/layout.jpg)
+
+![layout](./src/readme/layout.jpg)
 
 2. Create the basic html contents.
 
-![first-step](src/readme/first-step.png)
+![first-step](./src/readme/first-step.png)
 
 3. Set the basic layout appearance.
 
-![second-step](src/readme/second-step.png)
+![second-step](./src/readme/second-step.png)
 
 4. Add more content and retouch the page.
 
-![preview](src/readme/preview.png)
+![preview](./src/readme/preview.png)
+
+
+Embed **Playfair Display** font, to add a bit of character to the text eventually also to the page itself.
+
+![font used](./src/readme/font-used.png)
 
 ### Features
+ 
+![feature user 1](./src/readme/feat-user-1.png)
+![feature user 2](./src/readme/feat-user-2.png)
+
+![feature facilities 1](./src/readme/feat-facilites-l-1.png)
+![feature facilities 2](./src/readme/feat-facilites-l-2.png)
+
+
+![feature testimony large 1](./src/readme/feat-testimony-l-1.png)
+![feature testimony large 2](./src/readme/feat-testimony-l-2.png)
+
+![feature testimony small 1](./src/readme/feat-testimony-sm-1.png)
+![feature testimony small 2](./src/readme/feat-testimony-sm-2.png)
+
+
+
+
+![feature footer 1](./src/readme/feat-footer-1.png)
+![feature footer 2](./src/readme/feat-footer-2.png)
