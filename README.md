@@ -2,7 +2,9 @@
 
 # <h1 align ="center"> [bekerja](https://www.boredduck.site/) </h1>
 
-**bekerja** is a creative space for makers nestled in a simple yet inspiring garage workshop designed with a touch of minimalistic elegance. Bekerja offers a diverse array of facilities tailored to meet the needs of any aspiring craftsman or artisan.
+**[bekerja](https://www.boredduck.site/)** is a creative space created for makers, nestled in a simple yet inspiring garage workshop designed with a touch of minimalistic elegance. **[bekerja](https://www.boredduck.site/)** offers a diverse array of facilities tailored to meet the needs of any aspiring craftsman or artisan.
+
+**[link to bekerja](https://www.boredduck.site/)**
 
 ## Web Preview
 
@@ -22,7 +24,7 @@
 ### Steps
 <!-- <div style="font-size:15px"> -->
 
-1.  Make the concepts of what the layout is going to be.
+1.  Make the concept of what the layout is going to be.
 ![layout](./src/readme/layout.jpg)
 
 <br>
