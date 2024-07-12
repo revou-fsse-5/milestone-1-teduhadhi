@@ -1,10 +1,10 @@
 <!-- [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cvSOEAVD) -->
 
-# <h1 align ="center"> [bekerja](https://www.boredduck.site/) </h1>
+# <h1 align ="center"> [bekerja](https://www.bekerja.site/) </h1>
 
-**[bekerja](https://www.boredduck.site/)** is a creative space created for makers, nestled in a simple yet inspiring garage workshop designed with a touch of minimalistic elegance. **[bekerja](https://www.boredduck.site/)** offers a diverse array of facilities tailored to meet the needs of any aspiring craftsman or artisan.
+**[bekerja](https://www.bekerja.site/)** is a creative space created for makers, nestled in a simple yet inspiring garage workshop designed with a touch of minimalistic elegance. **[bekerja](https://www.bekerja.site/)** offers a diverse array of facilities tailored to meet the needs of any aspiring craftsman or artisan.
 
-**[link to bekerja](https://www.boredduck.site/)**
+**[link to bekerja](https://www.bekerja.site/)**
 
 ## Web Preview
 
@@ -24,7 +24,7 @@
 ### Steps
 <!-- <div style="font-size:15px"> -->
 
-1.  Make the general concept of how the layout is going to look like.
+1.  Make a sketch of how the layout is going to look like.
     
     <img src="./src/readme/layout.jpg" alt="layout" width="400px"/>
 
@@ -53,7 +53,7 @@
 
 ### Design Features
  
-1. Algining the user form into a column direction on mobile page so the form still relatively maintains the size ratio.
+1. Algining the user form into a column direction on mobile page so the form still has a relatively the same size ratio. The purpose of this behaviour is to maintain the consistency of the overall design of the web.
 
     ```css
     @media(max-width:768px){
@@ -73,7 +73,7 @@
 
 <br>
 
-2. Create a 'highlight' when the cursor hovering the list by translating the background images off the screen and tone down the opacity of the unselected items.
+2. Create a 'highlight' to emphasize the provided facilities. This feature is activated by hovering the cursor over the list, then on the unselected items, the overall opacity will be toned down and the background images will translated off the screen.
 
     ```html
     <section id="sect facssect" class="sect facssect">
@@ -134,7 +134,7 @@
 
 <br>
 
-3. Showing the testimony text when the cursor hovering on the testimony section by trasnlating the image to the other side on the page.
+3. Showing the testimony text to add a bit more of interaction between the user and the page. Activated by trasnlating the image to the other side on the page when the cursor hovering on the testimony section.
 
     ```html
     <section id="sect testimonsect" class="sect testimonsect invert">
@@ -233,5 +233,3 @@
    Hovered on careers items
 
    <img src="./src/readme/feat-footer-2.png" alt="feature footer 2" width="400px"/>
-
-### Deployment
